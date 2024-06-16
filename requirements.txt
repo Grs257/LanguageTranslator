@@ -1,0 +1,5 @@
+tk
+deep_translator
+pyttsx3
+SpeechRecognition
+pyaudio
